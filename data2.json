@@ -1,19 +1,13 @@
 [
     {
-        "id": 1,
-        "name": "bulbasaur",
-        "type": [
-            "grass",
-            "poison"
-        ],
-        "description": "Quand il est jeune, il absorbe les nutriments\nconserv\u00e9s dans son dos pour grandir\net se d\u00e9velopper.",
-        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
-        "evolutions": {
-            "before": [],
-            "after": [
-                2,
-                3
-            ]
+        "id" : 1,
+        "name" : "Bulbizarre",
+        "type": ["Plante", "Poison"],
+        "description": "Bulbizarre passe son temps à faire la sieste sous le soleil. Il y a une graine sur son dos. Il absorbe les rayons du soleil pour faire doucement pousser la graine.",
+        "image_url" : "https://www.pokepedia.fr/images/e/ef/Bulbizarre-RFVF.png",
+        "evolutions" : {
+            "before" : [],
+            "after" : [2, 3]
         }
     },
 ]
