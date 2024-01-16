@@ -5084,5 +5084,1319 @@
                 317
             ]
         }
+    },
+        {
+        "id": 317,
+        "name": "swalot",
+        "type": [
+            "poison"
+        ],
+        "description": "Avaltout n\u2019a pas de dents, ce qui le force \u00e0 tout avaler en\nune bouch\u00e9e. Quand il b\u00e2ille, sa bouche prend une taille\nimpressionnante, et on pourrait y placer une roue de voiture.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png",
+        "evolutions": {
+            "before": [
+                316
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 318,
+        "name": "carvanha",
+        "type": [
+            "water",
+            "dark"
+        ],
+        "description": "Il poss\u00e8de une m\u00e2choire puissante garnie de\ndents ac\u00e9r\u00e9es. Les marins ne s\u2019approchent\njamais des eaux habit\u00e9es par les Carvanha.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                319
+            ]
+        }
+    },
+    {
+        "id": 319,
+        "name": "sharpedo",
+        "type": [
+            "water",
+            "dark"
+        ],
+        "description": "Surnomm\u00e9 le \u00ab\u202ftyran des mers\u202f\u00bb, ce Pok\u00e9mon\nattaque sans exception tous les navires\nqui osent s\u2019aventurer sur son territoire.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png",
+        "evolutions": {
+            "before": [
+                318
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 320,
+        "name": "wailmer",
+        "type": [
+            "water"
+        ],
+        "description": "Il ressemble \u00e0 un \u00e9norme ballon quand il avale\nde tr\u00e8s grandes quantit\u00e9s d\u2019eau de mer.\nIl d\u00e9vore une tonne de nourriture par jour.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/320.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                321
+            ]
+        }
+    },
+    {
+        "id": 321,
+        "name": "wailord",
+        "type": [
+            "water"
+        ],
+        "description": "Sa taille fait de lui un Pok\u00e9mon fascinant.\nLes sites touristiques proposant d\u2019observer\nles Wailord ont toujours beaucoup de succ\u00e8s.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png",
+        "evolutions": {
+            "before": [
+                320
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 322,
+        "name": "numel",
+        "type": [
+            "fire",
+            "ground"
+        ],
+        "description": "Chamallot stocke du magma \u00e0 1\u202f200 \u00b0C dans son corps.\nLorsqu\u2019il est mouill\u00e9, le magma se refroidit et durcit. Le corps\ndu Pok\u00e9mon devient alors tr\u00e8s lourd et ses mouvements\ntr\u00e8s lents.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/322.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                323
+            ]
+        }
+    },
+    {
+        "id": 323,
+        "name": "camerupt",
+        "type": [
+            "fire",
+            "ground"
+        ],
+        "description": "Les bosses sur le dos de Cam\u00e9rupt sont apparues apr\u00e8s\nune d\u00e9formation de ses os. Elles crachent parfois du magma\nen fusion. Ce Pok\u00e9mon entre apparemment en \u00e9ruption\nlorsqu\u2019il est \u00e9nerv\u00e9.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323.png",
+        "evolutions": {
+            "before": [
+                322
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 324,
+        "name": "torkoal",
+        "type": [
+            "fire"
+        ],
+        "description": "",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png",
+        "evolutions": {
+            "before": [],
+            "after": []
+        }
+    },
+    {
+        "id": 325,
+        "name": "spoink",
+        "type": [
+            "psychic"
+        ],
+        "description": "Spoink garde une perle sur sa t\u00eate. Elle lui sert \u00e0 amplifier\nses pouvoirs t\u00e9l\u00e9kin\u00e9tiques. Il est constamment en qu\u00eate\nd\u2019une perle plus grosse.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/325.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                326
+            ]
+        }
+    },
+    {
+        "id": 326,
+        "name": "grumpig",
+        "type": [
+            "psychic"
+        ],
+        "description": "Groret utilise les perles noires sur son corps pour exercer\nses formidables pouvoirs. Quand il est en action, il entame\nune \u00e9trange danse. Les perles noires de ce Pok\u00e9mon\nont une valeur inestimable.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/326.png",
+        "evolutions": {
+            "before": [
+                325
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 327,
+        "name": "spinda",
+        "type": [
+            "normal"
+        ],
+        "description": "",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png",
+        "evolutions": {
+            "before": [],
+            "after": []
+        }
+    },
+    {
+        "id": 328,
+        "name": "trapinch",
+        "type": [
+            "ground"
+        ],
+        "description": "Il creuse, puis attend ses proies dans son antre\nen forme de c\u00f4ne, dont il est impossible\nde s\u2019\u00e9chapper.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                329,
+                330
+            ]
+        }
+    },
+    {
+        "id": 329,
+        "name": "vibrava",
+        "type": [
+            "ground",
+            "dragon"
+        ],
+        "description": "Pour aider ses ailes \u00e0 pousser, il se nourrit chaque\njour d\u2019un grand nombre de proies qu\u2019il dissout\nen projetant de l\u2019acide.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/329.png",
+        "evolutions": {
+            "before": [
+                328
+            ],
+            "after": [
+                330
+            ]
+        }
+    },
+    {
+        "id": 330,
+        "name": "flygon",
+        "type": [
+            "ground",
+            "dragon"
+        ],
+        "description": "On l\u2019appelle \u00ab\u202fl\u2019esprit du d\u00e9sert\u202f\u00bb, car ses\nbattements d\u2019ailes r\u00e9sonnent comme une m\u00e9lodie\nentonn\u00e9e par une voix douce.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png",
+        "evolutions": {
+            "before": [
+                328,
+                329
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 331,
+        "name": "cacnea",
+        "type": [
+            "grass"
+        ],
+        "description": "Si son environnement est aride et difficile, la fleur de Cacnea\ndevient plus jolie et d\u00e9gage un parfum d\u00e9licat. Ce Pok\u00e9mon\nse bat en agitant ses bras \u00e9pineux.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/331.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                332
+            ]
+        }
+    },
+    {
+        "id": 332,
+        "name": "cacturne",
+        "type": [
+            "grass",
+            "dark"
+        ],
+        "description": "Lorsqu\u2019un voyageur traverse le d\u00e9sert au milieu de la nuit,\nles Cacturne le suivent en groupe. Ces Pok\u00e9mon attendent\nle bon moment, quand le voyageur est fatigu\u00e9 et qu\u2019il n\u2019est\nplus capable de bouger.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/332.png",
+        "evolutions": {
+            "before": [
+                331
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 333,
+        "name": "swablu",
+        "type": [
+            "normal",
+            "flying"
+        ],
+        "description": "Ses ailes en forme de nuage le dissimulent\naux yeux des ennemis. On raconte qu\u2019elles sont\ndevenues blanches apr\u00e8s plusieurs g\u00e9n\u00e9rations.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                334
+            ]
+        }
+    },
+    {
+        "id": 334,
+        "name": "altaria",
+        "type": [
+            "dragon",
+            "flying"
+        ],
+        "description": "Il est de nature aimable, mais si on le met en\ncol\u00e8re, il intimide son adversaire en poussant\nun cri strident et l\u2019attaque sans piti\u00e9.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png",
+        "evolutions": {
+            "before": [
+                333
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 335,
+        "name": "zangoose",
+        "type": [
+            "normal"
+        ],
+        "description": "",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/335.png",
+        "evolutions": {
+            "before": [],
+            "after": []
+        }
+    },
+    {
+        "id": 336,
+        "name": "seviper",
+        "type": [
+            "poison"
+        ],
+        "description": "",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png",
+        "evolutions": {
+            "before": [],
+            "after": []
+        }
+    },
+    {
+        "id": 337,
+        "name": "lunatone",
+        "type": [
+            "rock",
+            "psychic"
+        ],
+        "description": "",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png",
+        "evolutions": {
+            "before": [],
+            "after": []
+        }
+    },
+    {
+        "id": 338,
+        "name": "solrock",
+        "type": [
+            "rock",
+            "psychic"
+        ],
+        "description": "",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/338.png",
+        "evolutions": {
+            "before": [],
+            "after": []
+        }
+    },
+    {
+        "id": 339,
+        "name": "barboach",
+        "type": [
+            "water",
+            "ground"
+        ],
+        "description": "Il sonde les bords boueux des rivi\u00e8res\navec ses barbillons.\nUn film fin et visqueux prot\u00e8ge tout son corps.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                340
+            ]
+        }
+    },
+    {
+        "id": 340,
+        "name": "whiscash",
+        "type": [
+            "water",
+            "ground"
+        ],
+        "description": "Il a besoin d\u2019un marais entier pour vivre.\nSi un ennemi s\u2019approche, il s\u2019\u00e9nerve et d\u00e9clenche\nun s\u00e9isme.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png",
+        "evolutions": {
+            "before": [
+                339
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 341,
+        "name": "corphish",
+        "type": [
+            "water"
+        ],
+        "description": "Un Pok\u00e9mon import\u00e9, retourn\u00e9 \u00e0 l\u2019\u00e9tat sauvage.\nIl s\u2019adapte m\u00eame aux rivi\u00e8res les plus pollu\u00e9es.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/341.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                342
+            ]
+        }
+    },
+    {
+        "id": 342,
+        "name": "crawdaunt",
+        "type": [
+            "water",
+            "dark"
+        ],
+        "description": "Il adore se battre et frappe comme une brute\ntous ceux qui approchent de sa mare.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png",
+        "evolutions": {
+            "before": [
+                341
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 343,
+        "name": "baltoy",
+        "type": [
+            "ground",
+            "psychic"
+        ],
+        "description": "Ce Pok\u00e9mon d\u00e9couvert dans des ruines anciennes\ntourne sur lui-m\u00eame pour se d\u00e9placer. Il se tient\ntoujours sur un pied, m\u00eame quand il dort.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/343.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                344
+            ]
+        }
+    },
+    {
+        "id": 344,
+        "name": "claydol",
+        "type": [
+            "ground",
+            "psychic"
+        ],
+        "description": "Ce Pok\u00e9mon aurait \u00e9t\u00e9 cr\u00e9\u00e9 \u00e0 partir d\u2019une poup\u00e9e\nd\u2019argile confectionn\u00e9e par une ancienne\ncivilisation. Il se d\u00e9place en l\u00e9vitant.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png",
+        "evolutions": {
+            "before": [
+                343
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 345,
+        "name": "lileep",
+        "type": [
+            "rock",
+            "grass"
+        ],
+        "description": "Accroch\u00e9 aux rochers des profondeurs, il attend\nqu\u2019une proie s\u2019approche de lui pour l\u2019attraper\navec ses tentacules en forme de p\u00e9tales.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/345.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                346
+            ]
+        }
+    },
+    {
+        "id": 346,
+        "name": "cradily",
+        "type": [
+            "rock",
+            "grass"
+        ],
+        "description": "Il attrape ses proies \u00e0 l\u2019aide de ses tentacules,\npuis les dissout imm\u00e9diatement avec ses sucs\ndigestifs pour en absorber les nutriments.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/346.png",
+        "evolutions": {
+            "before": [
+                345
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 347,
+        "name": "anorith",
+        "type": [
+            "rock",
+            "bug"
+        ],
+        "description": "Ce Pok\u00e9mon peut nager tr\u00e8s vite en agitant\nses huit ailes comme des rames de bateau.\nIl fait partie des anc\u00eatres des Pok\u00e9mon Insecte.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/347.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                348
+            ]
+        }
+    },
+    {
+        "id": 348,
+        "name": "armaldo",
+        "type": [
+            "rock",
+            "bug"
+        ],
+        "description": "Bien que vivant sur la terre ferme, il est tr\u00e8s\nbon nageur. Il plonge dans la mer \u00e0 la recherche\nde proies et les abat avec ses pinces ac\u00e9r\u00e9es.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/348.png",
+        "evolutions": {
+            "before": [
+                347
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 349,
+        "name": "feebas",
+        "type": [
+            "water"
+        ],
+        "description": "Ce Pok\u00e9mon a peut-\u00eatre un physique disgracieux,\nmais il est robuste et peut survivre dans tr\u00e8s peu\nd\u2019eau.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/349.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                350
+            ]
+        }
+    },
+    {
+        "id": 350,
+        "name": "milotic",
+        "type": [
+            "water"
+        ],
+        "description": "On dit que la beaut\u00e9 de ce Pok\u00e9mon est telle\nqu\u2019elle apaise l\u2019esprit de ceux qui le voient.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png",
+        "evolutions": {
+            "before": [
+                349
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 351,
+        "name": "castform",
+        "type": [
+            "normal"
+        ],
+        "description": "",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png",
+        "evolutions": {
+            "before": [],
+            "after": []
+        }
+    },
+    {
+        "id": 352,
+        "name": "kecleon",
+        "type": [
+            "normal"
+        ],
+        "description": "",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/352.png",
+        "evolutions": {
+            "before": [],
+            "after": []
+        }
+    },
+    {
+        "id": 353,
+        "name": "shuppet",
+        "type": [
+            "ghost"
+        ],
+        "description": "Il existe un proverbe ancien qui dit :\n\u00ab\u202fFuis la demeure o\u00f9 les Polichombr se\nrassemblent en nombre \u00e0 la p\u00e9nombre.\u202f\u00bb",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/353.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                354
+            ]
+        }
+    },
+    {
+        "id": 354,
+        "name": "banette",
+        "type": [
+            "ghost"
+        ],
+        "description": "Il est n\u00e9 de la rancune qu\u2019il a ressentie quand\nil a \u00e9t\u00e9 abandonn\u00e9. Il redevient apparemment\nune poup\u00e9e si l\u2019on en prend grand soin.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png",
+        "evolutions": {
+            "before": [
+                353
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 355,
+        "name": "duskull",
+        "type": [
+            "ghost"
+        ],
+        "description": "Ce Pok\u00e9mon devient invisible pour se rapprocher\nfurtivement de ses proies.\nIl a le pouvoir de traverser les murs.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/355.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                356,
+                477
+            ]
+        }
+    },
+    {
+        "id": 356,
+        "name": "dusclops",
+        "type": [
+            "ghost"
+        ],
+        "description": "Il cherche des feux follets pour les avaler.\nCe qu\u2019il se passe alors \u00e0 l\u2019int\u00e9rieur de son corps\nvide est un myst\u00e8re.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png",
+        "evolutions": {
+            "before": [
+                355
+            ],
+            "after": [
+                477
+            ]
+        }
+    },
+    {
+        "id": 357,
+        "name": "tropius",
+        "type": [
+            "grass",
+            "flying"
+        ],
+        "description": "",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png",
+        "evolutions": {
+            "before": [],
+            "after": []
+        }
+    },
+    {
+        "id": 358,
+        "name": "chimecho",
+        "type": [
+            "psychic"
+        ],
+        "description": "Lorsqu\u2019il y a beaucoup de vent, \u00c9oko pousse des cris,\naccroch\u00e9 \u00e0 une branche ou \u00e0 un auvent par une ventouse\nplac\u00e9e sur sa t\u00eate. Ce Pok\u00e9mon attrape des Baies avec\nsa longue queue pour les manger.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png",
+        "evolutions": {
+            "before": [
+                433
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 359,
+        "name": "absol",
+        "type": [
+            "dark"
+        ],
+        "description": "",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png",
+        "evolutions": {
+            "before": [],
+            "after": []
+        }
+    },
+    {
+        "id": 360,
+        "name": "wynaut",
+        "type": [
+            "psychic"
+        ],
+        "description": "Ces Pok\u00e9mon adorent se d\u00e9placer en groupe.\nIls se blottissent les uns contre les autres\ndans des cavernes pour dormir.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                202
+            ]
+        }
+    },
+    {
+        "id": 361,
+        "name": "snorunt",
+        "type": [
+            "ice"
+        ],
+        "description": "Il ne peut vivre que dans les plus froides contr\u00e9es.\nIl s\u2019accommode parfaitement de temp\u00e9ratures\natteignant les - 100 \u00b0C.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                362,
+                478
+            ]
+        }
+    },
+    {
+        "id": 362,
+        "name": "glalie",
+        "type": [
+            "ice"
+        ],
+        "description": "Il a le pouvoir de geler l\u2019humidit\u00e9 ambiante\nen un instant et peut ainsi immobiliser ses proies.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png",
+        "evolutions": {
+            "before": [
+                361,
+                478
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 363,
+        "name": "spheal",
+        "type": [
+            "ice",
+            "water"
+        ],
+        "description": "Il scrute la mer en se laissant porter par\nles vagues. Lorsqu\u2019il rep\u00e8re des proies,\nil avertit les Kaimorse du groupe.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/363.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                364,
+                365
+            ]
+        }
+    },
+    {
+        "id": 364,
+        "name": "sealeo",
+        "type": [
+            "ice",
+            "water"
+        ],
+        "description": "Il ne peut pas s\u2019emp\u00eacher de faire tourner sur\nson museau tout ce qui a une forme sph\u00e9rique,\ncomme les Obalie ou les Pok\u00e9 Balls.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png",
+        "evolutions": {
+            "before": [
+                363
+            ],
+            "after": [
+                365
+            ]
+        }
+    },
+    {
+        "id": 365,
+        "name": "walrein",
+        "type": [
+            "ice",
+            "water"
+        ],
+        "description": "Ses d\u00e9fenses poussent tout au long de sa vie.\nSi l\u2019une d\u2019elles se brise au cours d\u2019un combat,\nau bout d\u2019un an, elle aura repouss\u00e9 enti\u00e8rement.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/365.png",
+        "evolutions": {
+            "before": [
+                363,
+                364
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 366,
+        "name": "clamperl",
+        "type": [
+            "water"
+        ],
+        "description": "La perle de Coquiperl est tellement pr\u00e9cieuse\nqu\u2019elle peut valoir plus de dix fois la valeur\nde celle de Kokiyas.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                367,
+                368
+            ]
+        }
+    },
+    {
+        "id": 367,
+        "name": "huntail",
+        "type": [
+            "water"
+        ],
+        "description": "Il habite dans les profondeurs de l\u2019oc\u00e9an.\nUn Serpang trouv\u00e9 sur la plage serait\nun mauvais pr\u00e9sage.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/367.png",
+        "evolutions": {
+            "before": [
+                366,
+                368
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 368,
+        "name": "gorebyss",
+        "type": [
+            "water"
+        ],
+        "description": "Il se nourrit en aspirant les fluides corporels\nde ses proies. Le reste tombe au fond de la mer,\nnourrissant ainsi d\u2019autres Pok\u00e9mon.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/368.png",
+        "evolutions": {
+            "before": [
+                366,
+                367
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 369,
+        "name": "relicanth",
+        "type": [
+            "water",
+            "rock"
+        ],
+        "description": "",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png",
+        "evolutions": {
+            "before": [],
+            "after": []
+        }
+    },
+    {
+        "id": 370,
+        "name": "luvdisc",
+        "type": [
+            "water"
+        ],
+        "description": "",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/370.png",
+        "evolutions": {
+            "before": [],
+            "after": []
+        }
+    },
+    {
+        "id": 371,
+        "name": "bagon",
+        "type": [
+            "dragon"
+        ],
+        "description": "La t\u00eate de ce Pok\u00e9mon solitaire est si solide\nqu\u2019il est capable de fendre en deux un rocher\nd\u2019un seul coup.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/371.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                372,
+                373
+            ]
+        }
+    },
+    {
+        "id": 372,
+        "name": "shelgon",
+        "type": [
+            "dragon"
+        ],
+        "description": "Il se prive de nourriture, r\u00e9sistant \u00e0 la faim.\nOn dit que son \u00e9volution commence lorsque\nses r\u00e9serves d\u2019\u00e9nergie sont \u00e9puis\u00e9es.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/372.png",
+        "evolutions": {
+            "before": [
+                371
+            ],
+            "after": [
+                373
+            ]
+        }
+    },
+    {
+        "id": 373,
+        "name": "salamence",
+        "type": [
+            "dragon",
+            "flying"
+        ],
+        "description": "Heureux de pouvoir voler dans le ciel, il est\nsouvent de bonne humeur, mais il devient\nincontr\u00f4lable lorsqu\u2019on le met en col\u00e8re.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png",
+        "evolutions": {
+            "before": [
+                371,
+                372
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 374,
+        "name": "beldum",
+        "type": [
+            "steel",
+            "psychic"
+        ],
+        "description": "Les cellules de son corps sont compos\u00e9es\nd\u2019aimants. Une force magn\u00e9tique coule\ndans ses veines \u00e0 la place du sang.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                375,
+                376
+            ]
+        }
+    },
+    {
+        "id": 375,
+        "name": "metang",
+        "type": [
+            "steel",
+            "psychic"
+        ],
+        "description": "Ce Pok\u00e9mon vole par magn\u00e9tisme.\nIl poursuit ses proies en slalomant\n\u00e0 toute allure entre les pics escarp\u00e9s.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png",
+        "evolutions": {
+            "before": [
+                374
+            ],
+            "after": [
+                376
+            ]
+        }
+    },
+    {
+        "id": 376,
+        "name": "metagross",
+        "type": [
+            "steel",
+            "psychic"
+        ],
+        "description": "N\u00e9 de la fusion de deux M\u00e9tang, il vient \u00e0 bout\nde ses ennemis gr\u00e2ce \u00e0 son cerveau qui est aussi\nperformant qu\u2019un superordinateur.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png",
+        "evolutions": {
+            "before": [
+                374,
+                375
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 377,
+        "name": "regirock",
+        "type": [
+            "rock"
+        ],
+        "description": "",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png",
+        "evolutions": {
+            "before": [],
+            "after": []
+        }
+    },
+    {
+        "id": 378,
+        "name": "regice",
+        "type": [
+            "ice"
+        ],
+        "description": "",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/378.png",
+        "evolutions": {
+            "before": [],
+            "after": []
+        }
+    },
+    {
+        "id": 379,
+        "name": "registeel",
+        "type": [
+            "steel"
+        ],
+        "description": "",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/379.png",
+        "evolutions": {
+            "before": [],
+            "after": []
+        }
+    },
+    {
+        "id": 380,
+        "name": "latias",
+        "type": [
+            "dragon",
+            "psychic"
+        ],
+        "description": "",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/380.png",
+        "evolutions": {
+            "before": [],
+            "after": []
+        }
+    },
+    {
+        "id": 381,
+        "name": "latios",
+        "type": [
+            "dragon",
+            "psychic"
+        ],
+        "description": "",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/381.png",
+        "evolutions": {
+            "before": [],
+            "after": []
+        }
+    },
+    {
+        "id": 382,
+        "name": "kyogre",
+        "type": [
+            "water"
+        ],
+        "description": "",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png",
+        "evolutions": {
+            "before": [],
+            "after": []
+        }
+    },
+    {
+        "id": 383,
+        "name": "groudon",
+        "type": [
+            "ground"
+        ],
+        "description": "",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383.png",
+        "evolutions": {
+            "before": [],
+            "after": []
+        }
+    },
+    {
+        "id": 384,
+        "name": "rayquaza",
+        "type": [
+            "dragon",
+            "flying"
+        ],
+        "description": "",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png",
+        "evolutions": {
+            "before": [],
+            "after": []
+        }
+    },
+    {
+        "id": 385,
+        "name": "jirachi",
+        "type": [
+            "steel",
+            "psychic"
+        ],
+        "description": "",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png",
+        "evolutions": {
+            "before": [],
+            "after": []
+        }
+    },
+    {
+        "id": 387,
+        "name": "turtwig",
+        "type": [
+            "grass"
+        ],
+        "description": "Son corps produit de l\u2019oxyg\u00e8ne par photosynth\u00e8se.\nLa feuille sur sa t\u00eate fl\u00e9trit quand il a soif.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/387.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                388,
+                389
+            ]
+        }
+    },
+    {
+        "id": 388,
+        "name": "grotle",
+        "type": [
+            "grass"
+        ],
+        "description": "Il sait d\u2019instinct o\u00f9 trouver une source d\u2019eau pure.\nIl y transporte d\u2019autres Pok\u00e9mon sur son dos.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/388.png",
+        "evolutions": {
+            "before": [
+                387
+            ],
+            "after": [
+                389
+            ]
+        }
+    },
+    {
+        "id": 389,
+        "name": "torterra",
+        "type": [
+            "grass",
+            "ground"
+        ],
+        "description": "Il arrive que de petits Pok\u00e9mon se rassemblent sur son dos\nimmobile pour y faire leur nid.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png",
+        "evolutions": {
+            "before": [
+                387,
+                388
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 390,
+        "name": "chimchar",
+        "type": [
+            "fire"
+        ],
+        "description": "La flamme de son post\u00e9rieur br\u00fble gr\u00e2ce \u00e0 un gaz de son\nestomac. Elle faiblit quand il ne va pas bien.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/390.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                391,
+                392
+            ]
+        }
+    },
+    {
+        "id": 391,
+        "name": "monferno",
+        "type": [
+            "fire",
+            "fighting"
+        ],
+        "description": "Il attaque en prenant appui sur les murs et les plafonds.\nSa queue ardente n\u2019est pas son seul atout.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/391.png",
+        "evolutions": {
+            "before": [
+                390
+            ],
+            "after": [
+                392
+            ]
+        }
+    },
+    {
+        "id": 392,
+        "name": "infernape",
+        "type": [
+            "fire",
+            "fighting"
+        ],
+        "description": "Il fait voltiger ses ennemis gr\u00e2ce \u00e0 sa vitesse et son style\nde combat sp\u00e9cial qui utilise ses quatre membres.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png",
+        "evolutions": {
+            "before": [
+                390,
+                391
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 393,
+        "name": "piplup",
+        "type": [
+            "water"
+        ],
+        "description": "Il est fier et d\u00e9teste accepter la nourriture qu\u2019on lui offre.\nSon pelage \u00e9pais le prot\u00e8ge du froid.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                394,
+                395
+            ]
+        }
+    },
+    {
+        "id": 394,
+        "name": "prinplup",
+        "type": [
+            "water"
+        ],
+        "description": "C\u2019est un Pok\u00e9mon solitaire. Un seul coup de ses puissantes\nailes peut briser un arbre en deux.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/394.png",
+        "evolutions": {
+            "before": [
+                393
+            ],
+            "after": [
+                395
+            ]
+        }
+    },
+    {
+        "id": 395,
+        "name": "empoleon",
+        "type": [
+            "water",
+            "steel"
+        ],
+        "description": "Les trois cornes de son bec sont le symbole de sa force.\nCelles du chef sont plus grosses que les autres.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png",
+        "evolutions": {
+            "before": [
+                393,
+                394
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 396,
+        "name": "starly",
+        "type": [
+            "normal",
+            "flying"
+        ],
+        "description": "Ce Pok\u00e9mon tr\u00e8s bruyant parcourt champs et for\u00eats en nu\u00e9es\npour chasser les Pok\u00e9mon Insecte.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                397,
+                398
+            ]
+        }
+    },
+    {
+        "id": 397,
+        "name": "staravia",
+        "type": [
+            "normal",
+            "flying"
+        ],
+        "description": "Il peuple les champs et les for\u00eats. Lorsque deux vol\u00e9es\nse croisent, elles luttent pour le territoire.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png",
+        "evolutions": {
+            "before": [
+                396
+            ],
+            "after": [
+                398
+            ]
+        }
+    },
+    {
+        "id": 398,
+        "name": "staraptor",
+        "type": [
+            "normal",
+            "flying"
+        ],
+        "description": "Lorsque \u00c9tourvol \u00e9volue en \u00c9touraptor, il quitte son groupe\npour vivre seul. Ses ailes sont tr\u00e8s d\u00e9velopp\u00e9es.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png",
+        "evolutions": {
+            "before": [
+                396,
+                397
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 399,
+        "name": "bidoof",
+        "type": [
+            "normal"
+        ],
+        "description": "Il ronge constamment des troncs et des pierres pour se faire\nles incisives. Il niche le long de l\u2019eau.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                400
+            ]
+        }
+    },
+    {
+        "id": 400,
+        "name": "bibarel",
+        "type": [
+            "normal",
+            "water"
+        ],
+        "description": "Il construit des barrages de boue et d\u2019\u00e9corce le long\ndes fleuves. C\u2019est un ouvrier de renom.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png",
+        "evolutions": {
+            "before": [
+                399
+            ],
+            "after": []
+        }
+    },
+    {
+        "id": 401,
+        "name": "kricketot",
+        "type": [
+            "bug"
+        ],
+        "description": "Quand ses antennes s\u2019entrechoquent, elles laissent \u00e9chapper\nun bruit de xylophone.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/401.png",
+        "evolutions": {
+            "before": [],
+            "after": [
+                402
+            ]
+        }
+    },
+    {
+        "id": 402,
+        "name": "kricketune",
+        "type": [
+            "bug"
+        ],
+        "description": "Il exprime ses \u00e9motions par des m\u00e9lodies. Les scientifiques\n\u00e9tudient actuellement leur structure.",
+        "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png",
+        "evolutions": {
+            "before": [
+                401
+            ],
+            "after": []
+        }
     }
 ]
